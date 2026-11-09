@@ -1,28 +1,38 @@
 ### Hi there 👋, I'm Priya! <br/> 
-I'm passionate about securing digital environments, with a decade of experience in software QA providing a solid foundation for cybersecurity with proven ability to analyze complex systems and identify vulnerabilities. I've been actively building my skills to find my way into Application Security through dedicated self-study, building and contributing to projects. I'm ready to leverage my testing expertise and eager to contribute to a security-focused team to safeguard digital assets. <br/><br/>
+I am a Senior Software Quality & Automation Engineer with over 10 years of experience, specializing in Application Security and AI Security. Rather than relying solely on manual validation, I focus on building robust, automated security validation pipelines to shift security left and systematically identify vulnerabilities in modern tech stacks. My current focus is heavily rooted in REST API security testing, OWASP API Top 10 vulnerabilities, and AI agent security validation using Python and Pytest.<br/><br/>
+
+🔭 **Current Projects & Open Source**
+
+- **OWASP GenAI Security Project - FinBot CTF:** Contributor & Quality/Security Engineer, focusing on integration testing and analyzing security architecture.
+- **OWASP OASIS Project:** Vulnerability Validator, evaluating AI-generated candidate security fixes for open-source repositories. 
+- **Defensive Cybersecurity Program:** Currently upskilling through Calbright College.
+<br/>
+
+🌱 **Community & Leadership**
+- **Chapter Lead & Meetup Organizer:** The Test Tribe (San Francisco Bay Area)
+- **Co-Lead Organizer & Speaker:** AWS Community Day Bay Area
+- **Active Member:** OWASP and WiCyS (Women in Cybersecurity) 
+<br/>
+
+🛠️ **Core Competencies & Stack**
+- **Languages & Automation:** Python, Pytest, Playwright, Postman, Selenium, Appium
+- **Cloud & AI:** AWS (IAM, S3, EC2, Bedrock Guardrails)
+- **Security Validation:** Burp Suite, Wireshark, Nmap, GitHub Actions
+<br/>
+
+🎓 **Certifications**
+- AWS Certified AI Practitioner
+- CompTIA Security+ (SY0-701)
+- ISTQB Certified Tester Foundation Level
+- Google Cybersecurity Professional Certificate
+
+
+---
+**Let's Connect** 
+
+<a href="https://linkedin.com/in/priyaaruchami"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &ensp; 
+
 <!--
-🌱 **I’m currently learning** 
-- CompTIA Security+ cert preparation
-<br/>
--->
-
-🔭 **I’m currently working on**
-
-- OWASP GenAI Security Project - FinBot CTF Workstream (Contributor - Quality & Security Engineer)
-<br/>
-
-## Projects
-- [CampEats-PartyRockApp](https://github.com/PriyadharshniA/CampEats-PartyRockApp)
-- [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
-<!--
-- [Securing Bedrock](https://github.com/PriyadharshniA/AWS-Activationdays-Workshops/tree/main/Securing-Bedrock)
-- [Building Serverless Agentic AI Applications](https://github.com/PriyadharshniA/AWS-Activationdays-Workshops/tree/main/Serverless-AgenticAI)
-- [Network Firewall & DNS Firewall](<https://github.com/PriyadharshniA/AWS-Activationdays-Workshops/tree/main/Network%20Firewall-DNS%20Firewall)
-- WiCys Vulnerability Disclosure Program
-- [WiCyS/Target Cyber Defense Challenge 2025](https://github.com/PriyadharshniA/WiCysTargetCTF-2025)
---> 
-<br/>
-
 ## Certification
 - [AWS Certified AI Practitioner](https://www.credly.com/badges/67aba406-9993-45f8-a0ee-0c4e83ea246d)
 - [CompTIA Security+](https://www.credly.com/badges/50f2c120-5bdd-4954-996c-abdd7339a1f3)
