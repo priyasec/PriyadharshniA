@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Priya! <br/> 
-I am a Senior Software Quality & Automation Engineer with over 10 years of experience, specializing in Application Security and AI Security. Rather than relying solely on manual validation, I focus on building robust, automated security validation pipelines to shift security left and systematically identify vulnerabilities in modern tech stacks. My current focus is heavily rooted in REST API security testing, OWASP API Top 10 vulnerabilities, and AI agent security validation using Python and Pytest.<br/><br/>
+I am a Senior Software Quality & Automation Engineer with over 10 years of experience, specializing in Application Security and AI Security. I focus on building robust, automated security validation pipelines to shift security left and systematically identify vulnerabilities in modern tech stacks. My current focus is heavily rooted in REST API security testing, OWASP API Top 10 vulnerabilities, and AI agent security validation using Python and Pytest.<br/><br/>
 
 🔭 **Current Projects & Open Source**
 
